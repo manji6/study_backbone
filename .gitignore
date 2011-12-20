@@ -1,0 +1,8 @@
+﻿# ignore directory
+tmp/
+cache/
+log/
+
+# ignore files
+.DS_Store
+*.swp
